@@ -1,0 +1,10 @@
+{
+    "id": "WJ_HighCard",
+    "name": "High Card Only",
+    "display_name": "",
+    "author": ["Weaboo Jones"],
+    "description": "Adds a deck with only cards of rank 8 and higher (ranks 8 to K are doubled up)",
+    "prefix": "WJ_HC",
+    "main_file": "high_card.lua",
+    "version": "0.0.1"
+}
